@@ -1,0 +1,25 @@
+/*Nav Begin*/
+.nav-bar-content {
+    display: flex;
+    background-color: grey;
+}
+
+.nav-left {
+    width: 50%;
+    display: flex;
+}
+
+.nav-right {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+
+.nav-left > p {
+    padding: 15px;
+}
+
+.nav-right > p {
+    padding: 15px;
+}
+/*Nav End*/

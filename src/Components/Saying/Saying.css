@@ -1,0 +1,7 @@
+.saying-content {
+    padding: auto 20px;
+}
+
+.saying-content > p {
+    padding: 20px 40px;
+}

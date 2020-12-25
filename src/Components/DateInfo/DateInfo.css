@@ -1,0 +1,23 @@
+/*Date Begin*/
+.date-info-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.date-info-content > h2,
+.date-info-content > h3 {
+    font-size: 48px;
+    padding: 5px;
+}
+
+.date-info-content > h2 {
+    margin: 40px auto 0px auto;
+}
+
+.date-info-content > h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+/*Date End*/
