@@ -1,5 +1,8 @@
 .saying-content {
     padding: auto 20px;
+    background-color: #c7dac750;
+    font-family: "Homemade Apple", cursive;
+    font-size: 20px;
 }
 
 .saying-content > p {

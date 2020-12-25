@@ -100,9 +100,9 @@ class DateInfo extends React.Component {
 
         return (
             <section className="date-info-content">
-                <h2>{this.returnDay()}</h2>
-                <h3>{this.returnMonth()}</h3>
-                <h3>{this.returnDayOfMonth()}</h3>
+                <h2 className="top">{this.returnDay()}</h2>
+                <h3 className="middle">{this.returnMonth()}</h3>
+                <h3 className="bottom">{this.returnDayOfMonth()}</h3>
             </section>
         );
     }

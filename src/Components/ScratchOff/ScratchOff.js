@@ -36,8 +36,8 @@ export default function ScratchOff() {
                     className="card"
                     ref={ref}
                     style={{
-                        width: "80%",
-                        height: "200px",
+                        width: "250px",
+                        height: "250px",
                         margin: "0 auto",
                     }}
                 />

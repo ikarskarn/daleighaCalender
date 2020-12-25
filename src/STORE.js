@@ -107,7 +107,7 @@ export const CUSTOM_MESSAGES = {
     1026: "black friday",
     1122: "chloe birthday",
     1124: "christmas eve",
-    1125: "christmas day",
+    1125: "After a seriously long year, we are stronger than ever.  P.S.  All I want for Christmas is your two front t _ _ _ :)",
     1131: "new years eve",
 };
 

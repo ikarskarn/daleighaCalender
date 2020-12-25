@@ -20,7 +20,7 @@ code {
     height: 100%;
     object-fit: cover;
     transform: "translate(-50%, -50%)";
-    z-index: -2;
+    z-index: -30;
 }
 
 .cover {
@@ -32,5 +32,5 @@ code {
     right: 0;
     bottom: 0;
     background-color: rgba(255, 255, 255, 0.5); /* Black background with opacity */
-    z-index: -1; /* Specify a stack order */
+    z-index: -25; /* Specify a stack order */
 }
